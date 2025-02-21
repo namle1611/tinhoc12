@@ -8,13 +8,12 @@
 
   <body>
     <form>
-      <label>Tên Đăng Nhập: </label>
-      <input type="text" id="username" name="username">
-      <br>
-      <label>Mật Khẩu: </label>
-      <input type="password" id="pword" name="pword">
-      <button type="submit" id="ok" name="ok" onclick=login()> ĐĂNG NHẬP </button>
+      <label> Tên đăng nhập: </label>
+      <input type="text" id="username" name="username"><br>
+      <label> Mật khẩu: </label>
+      <input type="password" id="pass" name="pass"><br>
+      <button type="submit" id="ok" name="ok" onclick=login()> LOG IN </button>
     </form>
-    <script src="content/script.js"> </script>
+    <script src="script.js"></script>
   </body>
-</html>
+  </html>
