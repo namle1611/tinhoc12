@@ -7,7 +7,7 @@ function login()
 
   let p = pass.value
 
-  if (u=="m" && p=="1")
+  if (u=="nam" && p=="1")
 
   {
 
