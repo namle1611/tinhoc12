@@ -1,17 +1,22 @@
+html
+{
+  font-family: "Times New Roman";
+}
 h1
 {
   color: aqua;
-  font-family: "Times New Roman";
+  
 }
 ol
 {
-  
+ font-size: 20px;
+ background-color: AliceBlue;
 }
-ul
+li
 {
-  
+  border-style:solid;border-color:black;
 }
-p
+type="submit"
 {
-  
+  background-color: Orange;
 }
