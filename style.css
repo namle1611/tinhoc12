@@ -1,5 +1,6 @@
 html
 {
+  background-color: Bisque;
   font-family: "Times New Roman";
 }
 h1
@@ -14,9 +15,6 @@ li
 }
 ol
 {
-  border-style:solid;border-color:black;
+ font-color: purple;
 }
-type="submit"
-{
-  background-color: Orange;
-}
+
