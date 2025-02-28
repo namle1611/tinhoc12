@@ -7,12 +7,12 @@ h1
   color: aqua;
   
 }
-ol
+li
 {
  font-size: 20px;
  background-color: AliceBlue;
 }
-li
+ol
 {
   border-style:solid;border-color:black;
 }
