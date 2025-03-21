@@ -3,7 +3,8 @@
 text-align: center; padding: 40px;
         }
 .tngang {
-  background-color: black; 
+  background-color: black; padding: 20px;
         }
-.tngang a{}
-.tngang a: hover{padding: 20px;}
+.noidung{
+  background-color: grey;
+}
