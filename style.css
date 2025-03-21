@@ -6,7 +6,7 @@ text-align: center; padding: 40px;
   background-color: #333; padding: 20px;
         }
 .tngang a{
-       color: green;display: block; float: left;
+       color: green;display: block; float: left;text-align: center;
         }
 .tngang a: hover{background-color: white; color: blue;}
 .noidung{
