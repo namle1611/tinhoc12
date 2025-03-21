@@ -3,8 +3,12 @@
 text-align: center; padding: 40px;
         }
 .tngang {
-  background-color: black; padding: 20px;
+  background-color: #333; padding: 20px;
         }
+.tngang a{
+       color: green
+        }
+.tngang a: hover{background-color: white; color: blue;}
 .noidung{
   background-color: grey;
 }
