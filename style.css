@@ -11,13 +11,13 @@ html {width: 100%; height: 100%;)
   background-color: #333; 
   padding: 60px;
         }
-.tngang a{
+. a{
        color: green; 
        display: block; 
        float: left;
        text-align: center;
         }
-.tngang a: hover{
+.a: hover{
   background-color: white; 
   color: blue; 
 }
